@@ -28,3 +28,8 @@ psql -U postgres --file=desafio.sql -W
 
 
 [Jupyter ejecutado](queries-desafio.ipynb)
+
+
+### DEMOSTRACIÓN EN VIVO 
+
+[Ver en oneCompiler](https://onecompiler.com/embed/postgresql/3z69a99s8?hideNewFileOption=true&hideNew=true&hideLanguageSelection=true&theme=dark&hideStdin=true&hideTitle=true&listenToEvents=true&codeChangeEvent=true)
