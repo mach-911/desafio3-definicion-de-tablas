@@ -21,9 +21,10 @@ Abre una terminal dentro de este proyecto y ejecuta el siguiente comando:
 psql -U postgres --file=desafio.sql -W
 ```
 
+![screemshot](screenshot.png)
+
 
 ### DEMOSTRACIÓN DE EJECUCIÓN EN JUPYTER NOTEBOOK
 
 
 [Jupyter ejecutado](queries-desafio.ipynb)
-
